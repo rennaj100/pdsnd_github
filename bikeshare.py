@@ -194,4 +194,8 @@ if __name__ == "__main__":
 	main()
 
 
+<<<<<<< HEAD
 #Refactoring comments added
+=======
+#Comments added be JR
+>>>>>>> documentation

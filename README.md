@@ -1,21 +1,19 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 Include the date you created this project and README file.
-4/5/21 and generic README file
 
 ### Project Title
-Udacity Project 3 Git and Github
+Replace the Project Title
 
 ### Description
-Use a forked repository to make my own remotely, update it with my info, and then upload my project 2 using git and other git commands to demonstrate having that git knowledge.
+Describe what your project is about and what it does
 
 ### Files used
-bikeshare.py
-csv source data files
-readme file
-.gitignore file
+Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-stackoverflow and reddit coding channels
+
+Testing the addition of this line through git to the readme.md file
+
+Fixed the acciental deletion through vi git command
