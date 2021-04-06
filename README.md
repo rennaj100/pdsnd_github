@@ -4,6 +4,8 @@
 Include the date you created this project and README file.
 4/5/21 and generic README file
 
+2nd part of project update for branching purposes
+
 ### Project Title
 Udacity Project 3 Git and Github
 
